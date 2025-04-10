@@ -18,10 +18,9 @@ http://localhost:8080
 - Listar itens: GET /personagens/2/itens
 - Remover item: DELETE /personagens/2/itens/1
 - Buscar amuleto: GET /personagens/2/amuleto
-- Itens mágicos
-- Cadastrar: POST /itens
-- Listar: GET /itens
-- Buscar por idD: GET /itens/1
+- Cadastrar itens: POST /itens
+- Listar itens: GET /itens
+- Buscar itens por id: GET /itens/1
 
 ## Regras especificadas pelo professor:
 
